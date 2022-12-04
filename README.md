@@ -2,7 +2,7 @@
 script para fazer download dos numeros de um grupo do whats'up e salvá-lo em um lista(arquivo.txt ou csv)
 
 
-1 - Abra o web.whats'up
+1 - Abra o web.whats'up </br>
 2 - Aperte F12 ou abra o console do navegador
 3 - Insira o código do script e aperte enter (deverá aparecer um botão de download)
 4 - Escolha o grupo do whats'up e clique no botão download que apareceu
